@@ -1,0 +1,7 @@
+How to put data into Neural Network.
+
+1. Go to this link 'https://github.com/zalandoresearch/fashion-mnist/tree/master/data/fashion' and download 4 files,
+    two for training set[labels, images], and two for testing set[labels, images]
+2. Turn on 'ConvertToCSV.py' python script, and convert your four files into two, train_mnit.csv and test_minst.csv
+    Of cource you need to change path to this fours files.
+3. After all of this you can run neural network by script in main repository.
